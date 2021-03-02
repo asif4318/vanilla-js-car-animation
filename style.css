@@ -82,10 +82,12 @@ body {
   cursor: pointer;
   font-weight: bold;
   color: #585858;
+  outline: none; 
 }
 .models button:focus {
   background-color: rgb(72, 72, 146);
   color: white;
+  outline: none;
 }
 
 .purchase {
